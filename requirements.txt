@@ -1,0 +1,17 @@
+fiftyone
+numpy
+pycocotools
+torch
+gdown
+transformers
+open-clip-torch
+accelerate
+einops
+pyvips-binary 
+pyvips
+pillow
+umap-learn
+ultralytics
+qwen-vl-utils
+hf-xet
+jupyterlab
